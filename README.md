@@ -31,7 +31,7 @@ Before you can run Memon Browser, ensure you have the following installed:
 
 1.  **Clone the repository** (or download the `main.py` file directly):
     ```bash
-    git clone https://github.com/your-username/Memon-Browser.git
+    git clone https://github.com/MemonDeveloper/Memon-Browser.git
     cd Memon-Browser
     ```
 2.  **Create a `requirements.txt` file**: In the root directory of your project, create a file named `requirements.txt` and paste the following content:
